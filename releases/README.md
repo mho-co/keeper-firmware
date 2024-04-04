@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.994
+Current version: ```0.994```
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -14,6 +14,7 @@ The files listed here are from the latest release. Old versions can be found at 
 | R1D  | kp3a-r1d or kp3a-r1d-fram  |
 | R1E  | kp3a |
 
+</br>
 
 ## Keeper 3 model B (kp3b)
 
