@@ -1,10 +1,6 @@
 # Latest versions
 
-<<<<<<< HEAD
 Current version: 0.9951
-=======
-Current version: ```0.994```
->>>>>>> 9b055719e5a41b97fe9412ab5a544dc7ae21c333
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
