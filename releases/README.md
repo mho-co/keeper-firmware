@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9961
+Current version: 0.9962
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
