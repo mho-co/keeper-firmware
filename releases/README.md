@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9962
+Current version: 0.9965
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -23,3 +23,11 @@ The files listed here are from the latest release. Old versions can be found at 
 | R1A  | kp3b  |
 | R1B  | kp3b  |
 | R1C  | kp3b  |
+
+
+
+
+## changelog
+
+### 0.962
+- bugfix: callJS;
