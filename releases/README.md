@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9965
+Current version: 0.9966
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -29,5 +29,15 @@ The files listed here are from the latest release. Old versions can be found at 
 
 ## changelog
 
-### 0.962
-- bugfix: callJS;
+
+### 0.964
+- Nova organização dos menus de configurações;
+
+### 0.965
+- funções de horímetros nativos nas DIs;
+- funções de contador de pulso nativos nas DIs;
+
+### 0.966
+- BETA: novo debugador de modbus via webserver em '/mbrtu';
+- otimização de FOTA (firmware), apenas via MHO Cloud;
+- otimização de fileOTA (js, modbus...), apenas via MHO Cloud.
