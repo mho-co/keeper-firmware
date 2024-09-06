@@ -29,15 +29,18 @@ The files listed here are from the latest release. Old versions can be found at 
 
 ## changelog
 
+### 0.9967
+- Melhoria na reconexão via rede celular;
 
-### 0.964
-- Nova organização dos menus de configurações;
 
-### 0.965
-- funções de horímetros nativos nas DIs;
-- funções de contador de pulso nativos nas DIs;
-
-### 0.966
+### 0.9966
 - BETA: novo debugador de modbus via webserver em '/mbrtu';
 - otimização de FOTA (firmware), apenas via MHO Cloud;
 - otimização de fileOTA (js, modbus...), apenas via MHO Cloud.
+
+### 0.9965
+- funções de horímetros nativos nas DIs;
+- funções de contador de pulso nativos nas DIs;
+
+### 0.9964
+- Nova organização dos menus de configurações;
