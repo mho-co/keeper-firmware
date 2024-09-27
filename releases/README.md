@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9966
+Current version: 0.9967
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -28,6 +28,13 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+
+### 0.9968
+- [NEW] mhoWAVE - Sistema de comunicação local entre dispositivos baseado em Wi-Fi [Docs](https://docs.mhoeng.com/docs/2keeper/config_adv/mhojs/functions/7a-wave);
+- Correção de bug de envio via trigger de tempo nas DIs para a linha KP3B;
+
+
+
 
 ### 0.9967
 - Melhoria na reconexão via rede celular;
