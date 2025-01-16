@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9972
+Current version: 0.9976
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -27,8 +27,8 @@ The files listed here are from the latest release. Old versions can be found at 
 
 ## changelog
 
-### 0.9972
-- Erro de reconexão modem em rede celular (bug da versão KP3B)
+### 0.9976
+- Erro de reconexão modem em rede celular em alguns tipos de rede LTE (bug de reconexão da versão KP3B e alguns modelos de modem da versão KP308A)
 
 ### 0.9969
 - [NEW] mhoWAVE - Sistema de comunicação local entre dispositivos baseado em Wi-Fi [Docs](https://docs.mhoeng.com/docs/2keeper/config_adv/mhojs/functions/7a-wave);
