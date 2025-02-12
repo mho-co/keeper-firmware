@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9976
+Current version: 0.9978
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -26,6 +26,10 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+
+### 0.9978
+- Nova tela de depuração modbus
+- Corrigido erro de reconexão de APN em alguns modelos após TTL
 
 ### 0.9976
 - Erro de reconexão modem em rede celular em alguns tipos de rede LTE (bug de reconexão da versão KP3B e alguns modelos de modem da versão KP308A)
