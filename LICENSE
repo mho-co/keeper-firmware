@@ -1,3 +1,5 @@
+#### ENGLISH
+
 Bin Firmware Distribution License Agreement
 
 Copyright (c) 2019-2025 MHO Eletrica e Automacao LTDA
@@ -30,4 +32,39 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 By downloading or using the bin firmware files, Licensee agrees to be bound by the terms and conditions of this Agreement.
 
-Copyright (c) 2019-2024 MHO Eletrica e Automacao LTDA
+
+
+#### PORTUGUÊS
+
+Contrato de Licença para Distribuição de Firmware Binário
+
+Copyright (c) 2019-2025 MHO Elétrica e Automação LTDA
+
+Este Contrato de Licença para Distribuição de Firmware Binário (o "Contrato") é celebrado entre a MHO ("Licenciante") e qualquer indivíduo ou entidade que baixe ou utilize os arquivos de firmware binário distribuídos pela Licenciante (o "Licenciado").
+
+1. Concessão de Licença:
+A Licenciante concede ao Licenciado uma licença não exclusiva e intransferível para baixar, usar e distribuir os arquivos de firmware binário exclusivamente com a finalidade de atualizar dispositivos com o software mais recente fornecido pela Licenciante.
+
+2. Restrições:
+O Licenciado não deverá modificar, realizar engenharia reversa, descompilar, desmontar ou tentar derivar o código-fonte dos arquivos de firmware binário fornecidos pela Licenciante.
+
+3. Propriedade:
+A Licenciante mantém todos os direitos, títulos e interesses sobre os arquivos de firmware binário, incluindo todos os direitos de propriedade intelectual. Este Contrato não transfere quaisquer direitos de propriedade da Licenciante para o Licenciado.
+
+4. Aviso de Copyright:
+Os arquivos de firmware binário são protegidos por leis de direitos autorais. Todos os direitos não expressamente concedidos neste Contrato são reservados pela Licenciante.
+
+5. Atualizações:
+A Licenciante poderá, a seu critério, fornecer atualizações ou novas versões dos arquivos de firmware binário. O Licenciado é incentivado a manter os dispositivos atualizados com o software mais recente para garantir desempenho e segurança ideais.
+
+6. Isenção de Garantias:
+OS ARQUIVOS DE FIRMWARE BINÁRIO SÃO FORNECIDOS "NO ESTADO EM QUE SE ENCONTRAM", SEM QUALQUER GARANTIA, EXPRESSA OU IMPLÍCITA. A LICENCIANTE ISENTA-SE DE TODAS AS GARANTIAS, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. A LICENCIANTE RECOMENDA QUE O LICENCIADO ANALISE E TESTE CUIDADOSAMENTE OS ARQUIVOS DE FIRMWARE BINÁRIO ANTES DA IMPLANTAÇÃO PARA GARANTIR QUE ATENDAM AOS REQUISITOS ESPECÍFICOS E NÃO CAUSEM PROBLEMAS INESPERADOS OU DANOS AOS DISPOSITIVOS. A LICENCIANTE RECOMENDA FORTEMENTE QUE O LICENCIADO IMPLEMENTE UM MECANISMO DE REGISTRO DE EVENTOS PARA COMANDOS REMOTOS E INTERAÇÕES COM O DISPOSITIVO, POIS ISSO PODE AJUDAR A RASTREAR E AUDITAR ATIVIDADES, IDENTIFICAR PROBLEMAS POTENCIAIS E AUMENTAR A SEGURANÇA E RESPONSABILIDADE GERAL. O LICENCIADO É RESPONSÁVEL POR GARANTIR QUE QUALQUER MODIFICAÇÃO REALIZADA POR SCRIPTING COM mhoJS SEJA TESTADA COMPLETAMENTE ANTES DA IMPLANTAÇÃO, A FIM DE EVITAR POSSÍVEIS PROBLEMAS OU COMPROMETIMENTO DA FUNCIONALIDADE DO DISPOSITIVO.
+
+7. Limitação de Responsabilidade:
+EM NENHUMA HIPÓTESE A LICENCIANTE SERÁ RESPONSÁVEL POR QUAISQUER DANOS DECORRENTES DO USO DOS ARQUIVOS DE FIRMWARE BINÁRIO, INCLUINDO, MAS NÃO SE LIMITANDO A DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS OU CONSEQUENTES, MESMO QUE A LICENCIANTE TENHA SIDO AVISADA DA POSSIBILIDADE DE TAIS DANOS.
+
+8. Legislação Aplicável:
+Este Contrato será regido e interpretado de acordo com as leis brasileiras. Quaisquer disputas decorrentes deste Contrato serão resolvidas exclusivamente nos tribunais localizados no Brasil. Caso a parte infratora não tenha presença comercial no Brasil, a questão poderá ser tratada de acordo com as leis do país da parte infratora.
+
+Ao baixar ou utilizar os arquivos de firmware binário, o Licenciado concorda com os termos e condições deste Contrato.
+
