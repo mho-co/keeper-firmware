@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9978
+Current version: 0.9981
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -26,6 +26,9 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+### 0.9981
+- Novas funções para calculo de logaritmo via mhoJS
+- Pequenas otimizações de memória e funcionamento
 
 ### 0.9978
 - Nova tela de depuração modbus
