@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9981
+Current version: 0.9987
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -26,6 +26,10 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+### 0.9987
+- Depurador de boot
+- Depurador de erros para mhoJS reestruturado
+
 ### 0.9981
 - Novas funções para calculo de logaritmo via mhoJS
 - Pequenas otimizações de memória e funcionamento
