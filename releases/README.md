@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9989
+Current version: 0.9990
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -26,6 +26,10 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+### 0.9990
+- Adicionado GPS para linha A7608
+- Novas funções no mhoJS (JSON.compare cloud.send_asset)
+
 ### 0.9989
 - Pequenas otimizações de memória e funcionamento
 
