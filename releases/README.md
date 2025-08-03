@@ -4,7 +4,6 @@ Current version: 0.9990
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
-
 ## Keeper 3 model A (kp3a)
 
 | Board Revision  | Firmware |
