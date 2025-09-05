@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9990
+Current version: 0.9992
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -25,6 +25,16 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+
+### 0.9992
+- Altereções do filtro de DIs para falta de energia
+- Modificações na função de revezamento, desliga saida se em falha mesmo quando em alarme
+- Adicionado leitura de horimetros e pulsos via Modbus Server
+- Adicionado contador geral de pulsos para nível lógico baixo
+- Adicionado horimetros e contadores de pulsos separados por periodos (dia, mes e ano, alem dos contadores globais) para pulse0, pulse1, hour0, hour1
+- Refeito watchdogs de desconexões para brokers mqtt genericos
+- Refeito funções de conexões não bloqueantes para conexão via modem
+
 ### 0.9990
 - Adicionado GPS para linha A7608
 - Novas funções no mhoJS (JSON.compare cloud.send_asset)
