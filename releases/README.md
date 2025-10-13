@@ -1,6 +1,6 @@
 # Latest versions
 
-Current version: 0.9992
+Current version: 0.9995
 
 The files listed here are from the latest release. Old versions can be found at the old folder.
 
@@ -25,6 +25,16 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+
+### 0.9995
+- Otimização de memória do uso da função haskey no mhoJS para grandes objetos
+
+### 0.9994
+- Corrigido função haskey no mhoJS
+
+### 0.9993
+- Corrigido função de delay do mhoJS (bug ocasionado na att 0.9992)
+- Ajustes em funções de watchdog para mqtt genético
 
 ### 0.9992
 - Altereções do filtro de DIs para falta de energia
