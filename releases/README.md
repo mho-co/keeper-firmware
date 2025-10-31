@@ -25,6 +25,8 @@ The files listed here are from the latest release. Old versions can be found at 
 
 
 ## changelog
+### 0.9996
+- Otimização de memória das funções cloud.getAtt e cloud.setAtt e seus callbacks
 
 ### 0.9995
 - Otimização de memória do uso da função haskey no mhoJS para grandes objetos
